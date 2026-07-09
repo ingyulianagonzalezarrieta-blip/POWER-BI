@@ -1,0 +1,112 @@
+﻿ID_Cliente,Cliente,Tipo_Cliente,Ruta,Municipio,Zona
+C001,Tienda El Pariente,Tienda,Ruta Caimito,Caimito,Caimito Centro
+C002,Restaurante El Paisa,Restaurante,Ruta Caimito,Caimito,Caimito Centro
+C003,Minimercado El Vecino,Minimercado,Ruta Caimito,Caimito,Caimito Centro
+C004,Tienda El Campesino,Tienda,Ruta Caimito,Caimito,Caimito Centro
+C005,Tienda El Amigo,Tienda,Ruta Caimito,Caimito,Caimito Centro
+C006,Bar/Estadero El Pariente,Bar/Estadero,Ruta Caimito,Caimito,Caimito Centro
+C007,Tienda La Esquina,Tienda,Ruta Caimito,Caimito,Caimito Centro
+C008,Minimercado El Paisa,Minimercado,Ruta Caimito,Caimito,Caimito Centro
+C009,Superete El Pariente,Superete,Ruta Caimito,Caimito,Vereda El Palmar
+C010,Superete El Paisa,Superete,Ruta Caimito,Caimito,Vereda El Palmar
+C011,Superete El Rincón,Superete,Ruta Caimito,Caimito,Vereda El Palmar
+C012,Minimercado La Pola,Minimercado,Ruta Caimito,Caimito,Vereda El Palmar
+C013,Superete Don Jorge,Superete,Ruta Caimito,Caimito,Vereda El Palmar
+C014,Tienda El Vecino,Tienda,Ruta Caimito,Caimito,Vereda El Palmar
+C015,Bar/Estadero Doña Carmen,Bar/Estadero,Ruta Caimito,Caimito,Vereda El Palmar
+C016,Minimercado El Paisa,Minimercado,Ruta Caimito,Caimito,Vereda Pueblito
+C017,Restaurante La Esquina,Restaurante,Ruta Caimito,Caimito,Vereda Pueblito
+C018,Tienda El Rincón,Tienda,Ruta Caimito,Caimito,Vereda Pueblito
+C019,Tienda Doña Carmen,Tienda,Ruta Caimito,Caimito,Vereda Pueblito
+C020,Restaurante El Amigo,Restaurante,Ruta Caimito,Caimito,Vereda Pueblito
+C021,Tienda La Pola,Tienda,Ruta Caimito,Caimito,Vereda San Pedro
+C022,Superete La Esquina,Superete,Ruta Caimito,Caimito,Vereda San Pedro
+C023,Bar/Estadero La Esquina,Bar/Estadero,Ruta Caimito,Caimito,Vereda San Pedro
+C024,Superete Don Jorge,Superete,Ruta Caimito,Caimito,Vereda San Pedro
+C025,Superete Doña Carmen,Superete,Ruta Caimito,Caimito,Vereda San Pedro
+C026,Minimercado La Esquina,Minimercado,Ruta Caimito,Caimito,Vereda Las Flores
+C027,Tienda El Paisa,Tienda,Ruta Caimito,Caimito,Vereda Las Flores
+C028,Restaurante La Esquina,Restaurante,Ruta Caimito,Caimito,Vereda Las Flores
+C029,Minimercado La Esquina,Minimercado,Ruta Caimito,Caimito,Vereda Las Flores
+C030,Bar/Estadero Don Jorge,Bar/Estadero,Ruta Caimito,Caimito,Vereda Las Flores
+C031,Bar/Estadero Doña Carmen,Bar/Estadero,Ruta Caimito,Caimito,Vereda Las Flores
+C032,Minimercado Doña Carmen,Minimercado,Ruta Caimito,Caimito,Vereda Las Flores
+C033,Minimercado Don Jorge,Minimercado,Ruta Caimito,Caimito,Vereda Palo Alto
+C034,Tienda El Amigo,Tienda,Ruta Caimito,Caimito,Vereda Palo Alto
+C035,Minimercado El Campesino,Minimercado,Ruta Caimito,Caimito,Vereda Palo Alto
+C036,Minimercado El Vecino,Minimercado,Ruta Caimito,Caimito,Vereda Palo Alto
+C037,Bar/Estadero El Rincón,Bar/Estadero,Ruta Caimito,Caimito,Vereda Palo Alto
+C038,Superete El Paisa,Superete,Ruta La Unión,La Unión,La Unión Centro
+C039,Restaurante El Pariente,Restaurante,Ruta La Unión,La Unión,La Unión Centro
+C040,Minimercado El Pariente,Minimercado,Ruta La Unión,La Unión,La Unión Centro
+C041,Restaurante El Rincón,Restaurante,Ruta La Unión,La Unión,La Unión Centro
+C042,Restaurante La Esquina,Restaurante,Ruta La Unión,La Unión,La Unión Centro
+C043,Superete Doña Carmen,Superete,Ruta La Unión,La Unión,Vereda El Paraíso
+C044,Minimercado La Pola,Minimercado,Ruta La Unión,La Unión,Vereda El Paraíso
+C045,Bar/Estadero La Pola,Bar/Estadero,Ruta La Unión,La Unión,Vereda El Paraíso
+C046,Minimercado Don Jorge,Minimercado,Ruta La Unión,La Unión,Vereda El Paraíso
+C047,Minimercado El Campesino,Minimercado,Ruta La Unión,La Unión,Vereda Mata de Caña
+C048,Superete Don Jorge,Superete,Ruta La Unión,La Unión,Vereda Mata de Caña
+C049,Superete El Rincón,Superete,Ruta La Unión,La Unión,Vereda Mata de Caña
+C050,Superete El Rincón,Superete,Ruta La Unión,La Unión,Vereda Mata de Caña
+C051,Minimercado El Vecino,Minimercado,Ruta La Unión,La Unión,Vereda La Victoria
+C052,Superete La Pola,Superete,Ruta La Unión,La Unión,Vereda La Victoria
+C053,Tienda El Pariente,Tienda,Ruta La Unión,La Unión,Vereda La Victoria
+C054,Tienda El Vecino,Tienda,Ruta La Unión,La Unión,Vereda La Victoria
+C055,Minimercado El Rincón,Minimercado,Ruta La Unión,La Unión,Vereda La Victoria
+C056,Tienda El Rincón,Tienda,Ruta La Unión,La Unión,Vereda El Carmen
+C057,Bar/Estadero El Amigo,Bar/Estadero,Ruta La Unión,La Unión,Vereda El Carmen
+C058,Bar/Estadero El Campesino,Bar/Estadero,Ruta La Unión,La Unión,Vereda El Carmen
+C059,Restaurante El Campesino,Restaurante,Ruta La Unión,La Unión,Vereda El Carmen
+C060,Tienda La Esquina,Tienda,Ruta La Unión,La Unión,Vereda El Carmen
+C061,Superete Don Jorge,Superete,Ruta La Unión,La Unión,Vereda El Carmen
+C062,Restaurante La Esquina,Restaurante,Ruta La Unión,La Unión,Vereda El Carmen
+C063,Bar/Estadero El Vecino,Bar/Estadero,Ruta La Unión,La Unión,Vereda Cañaveral
+C064,Bar/Estadero El Pariente,Bar/Estadero,Ruta La Unión,La Unión,Vereda Cañaveral
+C065,Restaurante El Campesino,Restaurante,Ruta La Unión,La Unión,Vereda Cañaveral
+C066,Minimercado El Campesino,Minimercado,Ruta La Unión,La Unión,Vereda Cañaveral
+C067,Tienda Don Jorge,Tienda,Ruta La Unión,La Unión,Vereda Cañaveral
+C068,Superete El Amigo,Superete,Ruta San Marcos,San Marcos,San Marcos Centro
+C069,Minimercado El Vecino,Minimercado,Ruta San Marcos,San Marcos,San Marcos Centro
+C070,Restaurante El Vecino,Restaurante,Ruta San Marcos,San Marcos,San Marcos Centro
+C071,Superete El Campesino,Superete,Ruta San Marcos,San Marcos,San Marcos Centro
+C072,Tienda El Amigo,Tienda,Ruta San Marcos,San Marcos,San Marcos Centro
+C073,Restaurante La Pola,Restaurante,Ruta San Marcos,San Marcos,San Marcos Centro
+C074,Tienda La Esquina,Tienda,Ruta San Marcos,San Marcos,San Marcos Centro
+C075,Restaurante Don Jorge,Restaurante,Ruta San Marcos,San Marcos,San Marcos Centro
+C076,Tienda El Paisa,Tienda,Ruta San Marcos,San Marcos,Barrio El Prado
+C077,Superete La Esquina,Superete,Ruta San Marcos,San Marcos,Barrio El Prado
+C078,Tienda La Pola,Tienda,Ruta San Marcos,San Marcos,Barrio El Prado
+C079,Tienda El Campesino,Tienda,Ruta San Marcos,San Marcos,Barrio El Prado
+C080,Minimercado La Pola,Minimercado,Ruta San Marcos,San Marcos,Barrio La Esperanza
+C081,Superete El Vecino,Superete,Ruta San Marcos,San Marcos,Barrio La Esperanza
+C082,Restaurante El Campesino,Restaurante,Ruta San Marcos,San Marcos,Barrio La Esperanza
+C083,Superete El Rincón,Superete,Ruta San Marcos,San Marcos,Barrio La Esperanza
+C084,Superete El Paisa,Superete,Ruta San Marcos,San Marcos,Vereda Pijiguay
+C085,Restaurante El Rincón,Restaurante,Ruta San Marcos,San Marcos,Vereda Pijiguay
+C086,Restaurante La Pola,Restaurante,Ruta San Marcos,San Marcos,Vereda Pijiguay
+C087,Superete La Pola,Superete,Ruta San Marcos,San Marcos,Vereda Pijiguay
+C088,Minimercado El Paisa,Minimercado,Ruta San Marcos,San Marcos,Vereda Buenavista
+C089,Tienda Doña Carmen,Tienda,Ruta San Marcos,San Marcos,Vereda Buenavista
+C090,Tienda El Amigo,Tienda,Ruta San Marcos,San Marcos,Vereda Buenavista
+C091,Minimercado El Amigo,Minimercado,Ruta San Marcos,San Marcos,Vereda La Ceiba
+C092,Minimercado El Pariente,Minimercado,Ruta San Marcos,San Marcos,Vereda La Ceiba
+C093,Tienda El Pariente,Tienda,Ruta San Marcos,San Marcos,Vereda La Ceiba
+C094,Minimercado La Esquina,Minimercado,Ruta San Marcos,San Marcos,Vereda La Ceiba
+C095,Tienda Doña Carmen,Tienda,Ruta San Marcos,San Marcos,Vereda La Ceiba
+C096,Tienda El Campesino,Tienda,Ruta San Marcos,San Marcos,Vereda La Ceiba
+C097,Minimercado Don Jorge,Minimercado,Ruta San Marcos,San Marcos,Vereda La Ceiba
+C098,Bar/Estadero El Paisa,Bar/Estadero,Ruta San Marcos,San Marcos,Vereda El Tesoro
+C099,Superete El Vecino,Superete,Ruta San Marcos,San Marcos,Vereda El Tesoro
+C100,Superete El Amigo,Superete,Ruta San Marcos,San Marcos,Vereda El Tesoro
+C101,Bar/Estadero El Paisa,Bar/Estadero,Ruta San Marcos,San Marcos,Vereda El Tesoro
+C102,Bar/Estadero El Rincón,Bar/Estadero,Ruta San Marcos,San Marcos,Vereda El Tesoro
+C103,Minimercado La Esquina,Minimercado,Ruta San Marcos,San Marcos,Vereda El Tesoro
+C104,Tienda El Rincón,Tienda,Ruta San Marcos,San Marcos,Vereda El Tesoro
+C105,Restaurante El Rincón,Restaurante,Ruta San Marcos,San Marcos,Vereda El Tesoro
+C106,Bar/Estadero El Pariente,Bar/Estadero,Ruta San Marcos,San Marcos,Barrio Nuevo Milenio
+C107,Tienda El Pariente,Tienda,Ruta San Marcos,San Marcos,Barrio Nuevo Milenio
+C108,Bar/Estadero Doña Carmen,Bar/Estadero,Ruta San Marcos,San Marcos,Barrio Nuevo Milenio
+C109,Tienda El Paisa,Tienda,Ruta San Marcos,San Marcos,Barrio Nuevo Milenio
+C110,Minimercado El Paisa,Minimercado,Ruta San Marcos,San Marcos,Barrio Nuevo Milenio
+C111,Superete La Pola,Superete,Ruta San Marcos,San Marcos,Barrio Nuevo Milenio

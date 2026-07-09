@@ -1,0 +1,49 @@
+﻿Vendedor,Mes,Mes_Nombre,Ruta,Meta_COP,Ventas_COP,Cumplimiento_%,Clientes_Atendidos,Pedidos_Realizados,Ticket_Promedio,Devoluciones
+Jhon Pérez,1,January,Ruta Caimito,6752288,8060288.0,119.4,37,25,322412.0,0
+Jhon Pérez,2,February,Ruta Caimito,8072457,8153870.0,101.0,53,36,226496.0,5
+Jhon Pérez,3,March,Ruta Caimito,6196284,6868819.0,110.9,35,30,228961.0,3
+Jhon Pérez,4,April,Ruta La Unión,4608073,4353445.0,94.5,54,75,58046.0,0
+Jhon Pérez,5,May,Ruta San Marcos,8038865,6294074.0,78.3,42,60,104901.0,5
+Jhon Pérez,6,June,Ruta Caimito,4494943,3576776.0,79.6,56,48,74516.0,4
+Jhon Pérez,7,July,Ruta San Marcos,5493174,6437562.0,117.2,26,77,83605.0,0
+Jhon Pérez,8,August,Ruta Caimito,6642272,5599202.0,84.3,25,72,77767.0,5
+Jhon Pérez,9,September,Ruta San Marcos,7042777,6082891.0,86.4,48,28,217246.0,1
+Jhon Pérez,10,October,Ruta La Unión,5674446,4380247.0,77.2,49,29,151043.0,4
+Jhon Pérez,11,November,Ruta La Unión,6633268,7231872.0,109.0,20,55,131489.0,5
+Jhon Pérez,12,December,Ruta La Unión,4726652,5618232.0,118.9,56,75,74910.0,4
+Luis Hernández,1,January,Ruta San Marcos,6744994,7416549.0,110.0,34,76,97586.0,1
+Luis Hernández,2,February,Ruta San Marcos,8760425,8856365.0,101.1,46,62,142845.0,4
+Luis Hernández,3,March,Ruta Caimito,5789613,6846809.0,118.3,46,47,145677.0,4
+Luis Hernández,4,April,Ruta Caimito,6156634,5476414.0,89.0,50,74,74006.0,3
+Luis Hernández,5,May,Ruta La Unión,4738958,5827345.0,123.0,52,34,171392.0,1
+Luis Hernández,6,June,Ruta San Marcos,6607637,7634916.0,115.5,25,38,200919.0,0
+Luis Hernández,7,July,Ruta La Unión,4297977,3777528.0,87.9,22,34,111104.0,4
+Luis Hernández,8,August,Ruta La Unión,7382972,6355923.0,86.1,31,29,219170.0,2
+Luis Hernández,9,September,Ruta La Unión,5789589,7152517.0,123.5,43,53,134953.0,4
+Luis Hernández,10,October,Ruta San Marcos,6029678,5539450.0,91.9,29,51,108617.0,0
+Luis Hernández,11,November,Ruta Caimito,7402684,8742733.0,118.1,54,52,168129.0,5
+Luis Hernández,12,December,Ruta Caimito,7600951,7402584.0,97.4,57,60,123376.0,5
+Carlos Martínez,1,January,Ruta Caimito,6108652,7302880.0,119.5,54,57,128121.0,4
+Carlos Martínez,2,February,Ruta Caimito,6547114,8078068.0,123.4,40,76,106290.0,3
+Carlos Martínez,3,March,Ruta Caimito,6499094,6193286.0,95.3,28,59,104971.0,2
+Carlos Martínez,4,April,Ruta San Marcos,6801732,5281793.0,77.7,48,42,125757.0,0
+Carlos Martínez,5,May,Ruta La Unión,7300695,6790034.0,93.0,59,46,147609.0,0
+Carlos Martínez,6,June,Ruta San Marcos,7055316,8681287.0,123.0,30,38,228455.0,1
+Carlos Martínez,7,July,Ruta La Unión,4081647,4273620.0,104.7,54,46,92905.0,0
+Carlos Martínez,8,August,Ruta Caimito,4356559,4342149.0,99.7,39,71,61157.0,5
+Carlos Martínez,9,September,Ruta Caimito,4853261,5798393.0,119.5,26,30,193280.0,3
+Carlos Martínez,10,October,Ruta San Marcos,8257305,10079708.0,122.1,26,63,159995.0,0
+Carlos Martínez,11,November,Ruta La Unión,5193902,4748613.0,91.4,38,70,67837.0,5
+Carlos Martínez,12,December,Ruta San Marcos,7263714,5643846.0,77.7,31,35,161253.0,0
+Andrés Díaz,1,January,Ruta La Unión,7406805,8210765.0,110.9,43,39,210532.0,2
+Andrés Díaz,2,February,Ruta San Marcos,4697578,5126439.0,109.1,20,30,170881.0,1
+Andrés Díaz,3,March,Ruta San Marcos,5528747,5356630.0,96.9,40,75,71422.0,2
+Andrés Díaz,4,April,Ruta San Marcos,4499298,3398265.0,75.5,46,73,46552.0,0
+Andrés Díaz,5,May,Ruta San Marcos,4662195,4241449.0,91.0,41,38,111617.0,1
+Andrés Díaz,6,June,Ruta La Unión,6911052,8523443.0,123.3,57,41,207889.0,5
+Andrés Díaz,7,July,Ruta La Unión,6850317,5247311.0,76.6,38,27,194345.0,0
+Andrés Díaz,8,August,Ruta San Marcos,7715668,8503378.0,110.2,28,54,157470.0,4
+Andrés Díaz,9,September,Ruta La Unión,4415382,5366346.0,121.5,57,68,78917.0,5
+Andrés Díaz,10,October,Ruta Caimito,4235303,5110857.0,120.7,24,28,182531.0,3
+Andrés Díaz,11,November,Ruta La Unión,6414624,7881625.0,122.9,59,38,207411.0,5
+Andrés Díaz,12,December,Ruta Caimito,4102381,3493718.0,85.2,57,32,109179.0,2

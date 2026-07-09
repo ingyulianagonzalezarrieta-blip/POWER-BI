@@ -1,0 +1,13 @@
+﻿Producto,Categoría,Stock_Actual_Cajas,Stock_Mínimo,Stock_Máximo,Estado,Costo_Caja,Precio_Caja,Margen_%,Cajas_Vendidas_Mes,Rotación_Días
+Águila Lata x30,Cerveza,31,32,238,⚠️ Crítico,58000,72000,19.4,117,7.9
+Águila Botella x30,Cerveza,80,26,274,✅ Normal,54000,68000,20.6,136,17.6
+Póker Lata x30,Cerveza,16,25,261,⚠️ Crítico,56000,70000,20.0,129,3.7
+Póker Botella x30,Cerveza,134,19,150,📦 Exceso,52000,66000,21.2,138,29.1
+Club Colombia x24,Cerveza,152,19,182,📦 Exceso,68000,85000,20.0,138,33.0
+Costeña x30,Cerveza,98,30,150,✅ Normal,47000,60000,21.7,120,24.5
+Costeña Litro x12,Cerveza,152,15,162,📦 Exceso,43000,55000,21.8,38,120.0
+Agua Cristal 600ml x24,Agua,166,27,206,📦 Exceso,15000,22000,31.8,148,33.6
+Agua Cristal 1.5L x12,Agua,185,25,254,✅ Normal,19000,28000,32.1,65,85.4
+Malta Pony x30,Malta,18,29,193,⚠️ Crítico,36000,48000,25.0,57,9.5
+Malta Leona x30,Malta,39,23,270,✅ Normal,35000,46000,23.9,52,22.5
+Electrolit x12,Electrolit,133,20,293,✅ Normal,40000,55000,27.3,108,36.9
